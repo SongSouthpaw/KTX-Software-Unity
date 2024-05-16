@@ -1,4 +1,4 @@
 [submodule "KTX-Software.git"]
 	path = KTX-Software
-	url = git@github.com:KhronosGroup/KTX-Software.git
-	branch = 4.2
+	url = git@github.com:SongSouthpaw/KTX-Software.git
+	branch = main
